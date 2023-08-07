@@ -6,7 +6,7 @@ function TestContent() {
 	return (
 		// A comment
 		<div className={styles.test_content_container}>
-			<h1>My Test</h1>
+			<h1>Zak&apos;s Test</h1>
 
 			<p>
 				<strong>Ut enim ad minim veniam</strong>, duis aute irure dolor in
