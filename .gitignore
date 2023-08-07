@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Zak's Unique Files
+zaksNotes.txt
+
 # dependencies
 /node_modules
 /.pnp
